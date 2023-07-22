@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_hellomagicminds.io_normallogo</name>
+   <tag></tag>
+   <elementGuidId>43444261-6e70-44da-82ba-78bf2320dfd6</elementGuidId>
+   <imagePath>Object Repository/mmt_logo/Page_Home - Magic Mind Technologies/cropped-logo-1.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.normallogo</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Object Repository/mmt_logo/Page_Home - Magic Mind Technologies/cropped-logo-1.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@class='navbar-brand logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>646fed4b-46c8-45d4-a258-c0939a62d192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://magicminds.io/wp-content/uploads/2023/03/cropped-logo-1.png</value>
+      <webElementGuid>a42a141f-5021-436b-806d-138ef216241a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>normallogo</value>
+      <webElementGuid>46f185a1-d82d-48fc-80d6-7459944a81c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>logo</value>
+      <webElementGuid>2627dfb9-ed8c-4242-a3f4-7eec307058dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home&quot;)/header[@class=&quot;header&quot;]/nav[@class=&quot;navbar navbar-expand-xl navbar-light headnav&quot;]/div[@class=&quot;container&quot;]/a[@class=&quot;navbar-brand logo&quot;]/img[@class=&quot;normallogo&quot;]</value>
+      <webElementGuid>5f7b53af-ee6f-40d2-b2c6-6240801ba420</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@class='navbar-brand logo']</value>
+      <webElementGuid>d2dc0f11-a5fd-4029-9935-cf9f70fce632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='logo']</value>
+      <webElementGuid>127b3ca7-0b37-41aa-b338-b1cbc7b8c131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>cf391d8c-c3bf-4ad2-80db-5cf99572981d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://magicminds.io/wp-content/uploads/2023/03/cropped-logo-1.png' and @alt = 'logo']</value>
+      <webElementGuid>76a1976c-e18b-43df-977b-6da09fcb56e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

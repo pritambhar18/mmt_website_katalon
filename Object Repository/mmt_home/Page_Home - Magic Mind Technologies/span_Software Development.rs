@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Software Development</name>
+   <tag></tag>
+   <elementGuidId>c17e35da-7ecd-436d-93f6-e070cc5105be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mega-menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>515514a1-70cf-47c5-88d6-d8b2da8a0e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mega-menu-title</value>
+      <webElementGuid>54fd4b4b-a677-438e-8b37-26d1947f9628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Software Development</value>
+      <webElementGuid>3ec58458-dc99-4652-91a6-a1711064ee22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mega-menu-item-1301&quot;)/a[@class=&quot;mega-menu-link&quot;]/span[@class=&quot;mega-description-group&quot;]/span[@class=&quot;mega-menu-title&quot;]</value>
+      <webElementGuid>2009f0d8-2403-438c-8bae-614d5b3568df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mega-menu-item-1301']/a/span/span</value>
+      <webElementGuid>2421157b-00c3-4e55-81a5-b4defd24f8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask a Specialist'])[1]/following::span[5]</value>
+      <webElementGuid>ff4795f1-c509-433d-97e6-089df4674064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need help?'])[1]/following::span[6]</value>
+      <webElementGuid>f1770b80-8cb1-40af-bdac-21c25827bcaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get robust and responsive applications personalized for your business.'])[1]/preceding::span[1]</value>
+      <webElementGuid>0d479b96-8790-4214-ab89-84461fc50c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Augmentation'])[1]/preceding::span[2]</value>
+      <webElementGuid>64ae26fa-cb32-407e-96ce-42e60310299a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Software Development']/parent::*</value>
+      <webElementGuid>1622ff45-8501-4ebd-a67b-1bef510df86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span/span</value>
+      <webElementGuid>98928f35-e191-4a56-ae51-20476697718e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Software Development' or . = 'Software Development')]</value>
+      <webElementGuid>652229ed-b431-4617-b549-b462456e25ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

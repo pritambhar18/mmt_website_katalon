@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://magicminds.io/')
+
+WebUI.waitForPageLoad(1000)
+
+WebUI.maximizeWindow()
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Magic Mind Technologies/h1_The Smart Way  to Bridge  Skill Gaps'), 
+    0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home - Magic Mind Technologies/p_Scale with the expertise of dedicated dev_9ed30f'), 
+    0)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Home - Magic Mind Technologies/a_Software Development'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Home - Magic Mind Technologies/a_Staff Augmentation'))
+
+WebUI.closeBrowser()
+
